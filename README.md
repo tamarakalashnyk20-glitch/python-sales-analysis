@@ -87,5 +87,5 @@ The dashboard was designed to support business-oriented decision-making and cust
 ## Dashboard Preview
 
 ```md
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard 1 (1).png)
 ```
