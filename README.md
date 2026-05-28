@@ -86,5 +86,4 @@ The dashboard was designed to support business-oriented decision-making and cust
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard 1 (1).png)
-
+![Open Dashboard PDF](Dashboard 1.pdf)
