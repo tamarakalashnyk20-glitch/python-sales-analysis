@@ -1,5 +1,5 @@
 # python-sales-analysis
-# Python E-commerce Sales & Customer Analytics
+# E-commerce Sales & Customer Analytics
 
 ## Project Overview
 
@@ -86,6 +86,6 @@ The dashboard was designed to support business-oriented decision-making and cust
 
 ## Dashboard Preview
 
-```md
+
 ![Dashboard Preview](Dashboard 1 (1).png)
-```
+
